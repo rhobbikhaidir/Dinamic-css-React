@@ -1,4 +1,4 @@
-import Expenseitem from "./components/Expenseitem";
+import Expenseitem from "./components/ExpenseItem";
 
 function App() {
   const expenses = [
